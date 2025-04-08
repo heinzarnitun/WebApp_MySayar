@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WebApp_MySayar/static/css/main.60da83e1.css",
-    "main.js": "/WebApp_MySayar/static/js/main.0f583a97.js",
+    "main.js": "/WebApp_MySayar/static/js/main.c388c99f.js",
     "static/js/453.b81d871f.chunk.js": "/WebApp_MySayar/static/js/453.b81d871f.chunk.js",
     "index.html": "/WebApp_MySayar/index.html",
     "main.60da83e1.css.map": "/WebApp_MySayar/static/css/main.60da83e1.css.map",
-    "main.0f583a97.js.map": "/WebApp_MySayar/static/js/main.0f583a97.js.map",
+    "main.c388c99f.js.map": "/WebApp_MySayar/static/js/main.c388c99f.js.map",
     "453.b81d871f.chunk.js.map": "/WebApp_MySayar/static/js/453.b81d871f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60da83e1.css",
-    "static/js/main.0f583a97.js"
+    "static/js/main.c388c99f.js"
   ]
 }
