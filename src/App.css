@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+/* Add to your styles.css or inline styles */
+.tutor-profile {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.tutor-profile img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+
+.tutor-profile h3 {
+  font-size: 18px;
+  margin: 0;
+}
+
+.tutor-profile p {
+  margin: 5px 0;
+}
+
