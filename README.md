@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+### MySayar - Private Tutor Finding Platform
+🚀 A web platform connecting students with qualified private tutors.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+MySayar Preview (Replace with actual screenshot later)
 
-## Available Scripts
+🌟 Project Overview
+MySayar is a React + Laravel web app designed to bridge the gap between students/parents and private tutors. It offers:
 
-In the project directory, you can run:
+For Students/Parents: Search, filter, and book tutors by subject, price, and ratings.
 
-### `npm start`
+For Tutors: Create profiles, manage bookings, and apply for teaching jobs.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🎯 Key Features
+Students/Parents
+🔍 Search & Filter Tutors
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Filter by subject, location, hourly rate, and ratings.
+📅 Book Sessions
 
-### `npm test`
+Schedule sessions with preferred tutors.
+⭐ Rate & Review
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Leave feedback after sessions.
 
-### `npm run build`
+Tutors
+📝 Profile Management
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Showcase qualifications, rates, and availability.
+📨 Job Applications
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Apply for teaching jobs posted by students.
+✅ Booking Management
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Accept/reject session requests.
 
-### `npm run eject`
+🛠 Technology Stack
+Frontend	Backend	Database	Deployment
+React.js	Laravel (REST API)	MySQL	GitHub Pages
+Next.js (SEO)	PHP		
+Bootstrap 5			
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🌍 Live Demo
+👉 https://heinzarnitun.github.io/WebApp_MySayar/
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
