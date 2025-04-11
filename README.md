@@ -7,9 +7,9 @@ MySayar Preview (Replace with actual screenshot later)
 
 MySayar is a React + Laravel web app designed to bridge the gap between students/parents and private tutors. It offers:
 
-For Students/Parents: Search, filter, and book tutors by subject, price, and ratings.
+For Students/Parents: Search and book tutors by subject, salary rates, and ratings and manage created jobs.
 
-For Tutors: Create profiles, manage bookings, and apply for teaching jobs.
+For Tutors: Create profiles, search jobs, manage bookings, and apply for teaching jobs.
 
 🎯 Key Features
 
@@ -31,7 +31,7 @@ Tutors
 
 📝 Profile Management
 
-Showcase qualifications, rates, and availability.
+Showcase qualifications, rates, and experience.
 
 📨 Job Applications
 
