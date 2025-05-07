@@ -46,9 +46,8 @@ Accept/reject session requests.
 Frontend |	Backend	| Database	| Deployment
 
 React.js	| Laravel |	MySQL	     | GitHub Pages
-
-Next.js   |	PHP		
-Bootstrap 5	|	
+	
+Bootstrap 	|	
 
 🌍 Live Demo
 👉 https://heinzarnitun.github.io/WebApp_MySayar/
